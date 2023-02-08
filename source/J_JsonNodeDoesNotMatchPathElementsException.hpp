@@ -1,0 +1,12 @@
+#ifndef MINECRAFT_J_JSONNODEDOESNOTMATCHPATHELEMENTSEXCEPTION_HPP
+#define MINECRAFT_J_JSONNODEDOESNOTMATCHPATHELEMENTSEXCEPTION_HPP
+
+namespace Minecraft
+{
+	class J_JsonNodeDoesNotMatchPathElementsException
+	{
+
+	};
+}
+
+#endif

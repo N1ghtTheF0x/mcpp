@@ -1,0 +1,12 @@
+#ifndef MINECRAFT_J_JSONNODEDOESNOTMATCHJSONNODESELECTOREXCEPTION_HPP
+#define MINECRAFT_J_JSONNODEDOESNOTMATCHJSONNODESELECTOREXCEPTION_HPP
+
+namespace Minecraft
+{
+	class J_JsonNodeDoesNotMatchJsonNodeSelectorException
+	{
+
+	};
+}
+
+#endif

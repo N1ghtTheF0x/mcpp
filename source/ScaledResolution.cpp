@@ -1,0 +1,1 @@
+#include "ScaledResolution.hpp"

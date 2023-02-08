@@ -1,0 +1,6 @@
+[submodule "GLFW3"]
+    path = glfw
+    url = https://github.com/glfw/glfw
+[submodule "Glatter"]
+    path = glatter
+    url = https://github.com/imakris/glatter

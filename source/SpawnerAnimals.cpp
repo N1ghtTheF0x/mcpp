@@ -1,0 +1,1 @@
+#include "SpawnerAnimals.hpp"
